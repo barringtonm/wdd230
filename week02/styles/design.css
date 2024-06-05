@@ -10,7 +10,7 @@ footer {
 }
 
 marquee {
-    padding: 1rem;
+    padding: 1px;
     background-color: #eee;
 }
 
@@ -37,7 +37,7 @@ article p {
 }
 
 footer {
-    margin-top: 1rem;
+    margin-top: 10px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     font-size: smaller;
     text-align: right;

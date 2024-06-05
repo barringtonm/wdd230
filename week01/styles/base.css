@@ -7,12 +7,12 @@
     h1 {
         text-align: left;
         font-family: times, serif;
-        font-size: 1.5rem;
-        margin-left: 1rem;
+        font-size: 15pxr;
+        margin-left: 0.5rem;
     }
     
     h2 {
-        font-size: 1.2rem;
+        font-size: 10px;
         color: navy;
         text-align: center;
         margin: 1.5rem;
@@ -23,7 +23,7 @@
     h4,
     h5,
     h6 {
-        font-size: 1rem;
+        font-size: 8px;
         color: rgb(20, 95, 95);
         text-align: center
     }
@@ -35,13 +35,11 @@
     /* small view navigation */
     
     #menu {
-        font-size: 1.5rem;
+        font-size: 10px;
         border: 0;
         background: none;
         color: #000;
         position: left;
-        ________;
-        ________;
     }
     
     #menu::before {

@@ -1,0 +1,66 @@
+const jsonString = '{
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+
+},
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+},
+
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+},
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+},
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+},
+"nameOfCompany": "Seneca College",
+"address": {
+    "street": "Finch Avenue East",
+    "number": 1750,
+    "postal code": "M2J 2X5",
+    "city": "Toronto",
+    "phone numbers": 14167640555,
+    "website URLs": " https: //www.senecapolytechnic.ca",
+    "image or icon file names": ""
+},
+
+}
+';
